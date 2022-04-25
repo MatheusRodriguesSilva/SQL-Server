@@ -22,9 +22,3 @@ GROUP BY Usuario.nome
 
 SELECT*FROM Produtos
 WHERE Produtos.Valor BETWEEN '400' and '500'
-
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
